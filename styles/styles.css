@@ -554,7 +554,8 @@ nav button:hover {
     max-width: 886px;
     flex-direction: column;
     width: 100%;
-    margin-left: 39px;
+    justify-content: center;
+    align-items: center;
   }
   .sectionOneText {
     max-width: 327px;
@@ -598,7 +599,7 @@ nav button:hover {
   }
   .sectionOneImg {
     margin-top: 83px;
-    margin-left: 4px;
+    margin-left: 45px;
   }
   .sectionOneImg img {
     width: 402px;
@@ -753,7 +754,6 @@ nav button:hover {
     margin-top: 111px;
     margin-bottom: 50px;
 
-    max-width: 327px;
     margin-left: auto;
   }
 
